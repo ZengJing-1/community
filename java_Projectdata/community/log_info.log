@@ -1,0 +1,10 @@
+2022-07-01 10:43:40,127 INFO [main] c.n.c.c.LoggerTests [StartupInfoLogger.java:55] Starting LoggerTests using Java 1.8.0_131 on DESKTOP-79P0A8I with PID 17752 (started by ZJ in D:\java_Project\Workspace\community)
+2022-07-01 10:43:40,128 INFO [main] c.n.c.c.LoggerTests [SpringApplication.java:634] No active profile set, falling back to 1 default profile: "default"
+2022-07-01 10:43:41,175 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
+2022-07-01 10:43:41,412 INFO [main] c.n.c.c.LoggerTests [StartupInfoLogger.java:61] Started LoggerTests in 1.514 seconds (JVM running for 2.058)
+2022-07-01 10:43:41,557 INFO [main] c.n.c.c.LoggerTests [LoggerTests.java:19] infoLog
+2022-07-01 10:44:24,913 INFO [main] c.n.c.c.LoggerTests [StartupInfoLogger.java:55] Starting LoggerTests using Java 1.8.0_131 on DESKTOP-79P0A8I with PID 21448 (started by ZJ in D:\java_Project\Workspace\community)
+2022-07-01 10:44:24,930 INFO [main] c.n.c.c.LoggerTests [SpringApplication.java:634] No active profile set, falling back to 1 default profile: "default"
+2022-07-01 10:44:25,922 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
+2022-07-01 10:44:26,121 INFO [main] c.n.c.c.LoggerTests [StartupInfoLogger.java:61] Started LoggerTests in 1.407 seconds (JVM running for 1.936)
+2022-07-01 10:44:26,263 INFO [main] c.n.c.c.LoggerTests [LoggerTests.java:19] infoLog
